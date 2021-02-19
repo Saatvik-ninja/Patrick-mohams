@@ -1,21 +1,31 @@
-#paty{
-width:450px;
+#paty {
+    width: 450px;
 }
-section{
-    background:linear-gradient(#34eba8 0%,#34dbeb 100%);
+
+body {
+    background: linear-gradient(#34eba8 0%, #34dbeb 100%);
 }
-.menu{
+
+.menu {
     position: absolute;
     cursor: pointer;
     right: 30px;
 }
-.link{
+
+.link {
     color: firebrick;
 }
-.link:hover{
-    background-color: cyan;
+
+.link:hover {
+  color:chartreuse;
 }
-body{
- font-family: 'Hanalei', cursive;
+
+body {
+    font-family: 'Hanalei', cursive;
 
 }
+#contact{
+    background:red;
+    width: 100%;
+}
+
